@@ -1,0 +1,26 @@
+form{
+    color:black;
+    font-style: italic;
+    font-weight: bolder;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+.navbar{
+    margin-bottom: 2rem; 
+}
+
+
+.infodelivery{
+    padding-left: 5%;
+    padding-bottom: 2%;
+    font-size: 1.25rem;
+    font-weight: lighter ;
+}
+
+.bg-light{
+    background-color: #d6e3f0!important;
+}
+
+
+
